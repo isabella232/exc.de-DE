@@ -1,0 +1,24 @@
+Original XML Dita File,UUID,Transformed Markdown File
+CxSDK-Library-master/c_library_about.dita,507e28c7-d8b7-42ac-82d4-caf7c16bdd3b,c-library-about/overview.md
+CxSDK-Library-master/c_access_the_library.dita,c5ef305a-07f4-47bf-b20d-77dc2577ba95,c-library-about/c-access-the-library.md
+CxSDK-Library-master/c_importing_and_uploading.dita,2ace4c62-7df9-4444-824d-078fc87d9150,c-library-about/c-importing-and-uploading/c-importing-and-uploading.md
+CxSDK-Library-master/c_import_dropbox_files.dita,4b688762-02ee-4718-9da8-55b9a59c5ff6,c-library-about/c-importing-and-uploading/c-import-dropbox-files.md
+CxSDK-Library-master/c_import_creative_cloud_files.dita,184632df-7084-4db8-a4d6-c372ab9764c9,c-library-about/c-importing-and-uploading/c-import-creative-cloud-files.md
+CxSDK-Library-master/c_change_dropbox_or_creative_cloud_accounts.dita,bc8c9cce-a543-42cc-81cd-b9995f26c8d4,c-library-about/c-importing-and-uploading/c-change-dropbox-or-creative-cloud-accounts.md
+CxSDK-Library-master/c_upload_asset_from_device.dita,77b608b3-b588-4eec-a2f9-a3e4d2e6d44f,c-library-about/c-importing-and-uploading/c-upload-asset-from-device.md
+CxSDK-Library-master/c_cancel_an_upload.dita,29cd1c48-0ab5-46cf-81bf-50571e3078f3,c-library-about/c-importing-and-uploading/c-cancel-an-upload.md
+CxSDK-Library-master/c_assets.dita,dcb38464-a90e-45f8-8ff1-0881f31d46ac,c-library-about/c-assets/c-assets.md
+CxSDK-Library-master/c_search_for_assets.dita,882ff4db-5bca-456c-888c-220c70eadce7,c-library-about/c-assets/c-search-for-assets.md
+CxSDK-Library-master/c_filter_assets.dita,8a707d6d-1905-4934-b35b-034a337b17f7,c-library-about/c-assets/c-filter-assets.md
+CxSDK-Library-master/c_download_an_asset.dita,f38ecdc5-e0de-46f5-bfbc-fb45cabedac3,c-library-about/c-assets/c-download-an-asset.md
+CxSDK-Library-master/c_view_detailed_information_for_an_asset.dita,030511fd-b6b5-4fe8-b129-d9937d1133a4,c-library-about/c-assets/c-view-detailed-information-for-an-asset.md
+CxSDK-Library-master/c_view_previous_versions_of_an_asset.dita,0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32,c-library-about/c-assets/c-view-previous-versions-of-an-asset.md
+CxSDK-Library-master/c_revert_to_an_older_version_of_an_asset.dita,57922668-2ad8-4670-a02b-0086151ac539,c-library-about/c-assets/c-revert-to-an-older-version-of-an-asset.md
+CxSDK-Library-master/c_delete_an_asset.dita,7c472517-9d58-4b8a-9f71-6b651901a44b,c-library-about/c-assets/c-delete-an-asset/c-delete-an-asset.md
+CxSDK-Library-master/c_restore_a_deleted_asset.dita,5cf60e36-99fb-4335-af9d-2224342c382b,c-library-about/c-assets/c-delete-an-asset/c-restore-a-deleted-asset.md
+CxSDK-Library-master/c_permanently_delete_an_asset.dita,593713aa-5b86-4474-a462-c1173fdf8dc7,c-library-about/c-assets/c-delete-an-asset/c-permanently-delete-an-asset.md
+CxSDK-Library-master/replace_an_asset.dita,c83a3b28-8b9f-4457-affa-948e71cbf784,c-library-about/c-assets/replace-an-asset.md
+CxSDK-Library-master/c_folders.dita,2d91f3c8-bbba-434a-80e3-aa82d47ef63c,c-library-about/c-folders/c-folders.md
+CxSDK-Library-master/c_create_a_folder.dita,6651be0e-262a-4f9c-b0c6-adec3a4e2178,c-library-about/c-folders/c-create-a-folder.md
+CxSDK-Library-master/c_delete_a_folder.dita,0e1c5ef2-188e-4012-92db-900b9d5732cf,c-library-about/c-folders/c-delete-a-folder.md
+CxSDK-Library-master/c_edit_an_image.dita,0fc38989-fcce-4177-95af-2488ef0a3c5c,c-library-about/c-edit-an-image.md
