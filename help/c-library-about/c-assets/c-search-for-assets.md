@@ -1,11 +1,11 @@
 ---
-description: Suchen Sie in der Adobe Experience Cloud-Bibliothek nach Assets, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
-seo-description: Suchen Sie in der Adobe Experience Cloud-Bibliothek nach Assets, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
+description: Suche nach Assets in der Adobe Experience Cloud-Bibliothek, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
+seo-description: Suche nach Assets in der Adobe Experience Cloud-Bibliothek, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
 seo-title: Suche nach Assets
 solution: Experience Manager
 title: Suche nach Assets
-uuid: 882 ff 4 db -5 bca -456 c -888 c -220 c 70 eadce 7
-translation-type: tm+mt
+uuid: 882ff4db-5bca-456c-888c-220c70eadce7
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -13,9 +13,9 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 # Suche nach Assets{#search-for-assets}
 
-Suchen Sie in der Adobe Experience Cloud-Bibliothek nach Assets, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
+Suche nach Assets in der Adobe Experience Cloud-Bibliothek, um Assets in der gesamten Organisation oder in einem bestimmten Ordner zu finden.
 
-Suchen Sie in der Experience Cloud-Bibliothek nach Assets, indem Sie die Suchleiste verwenden. Die Suche durchsucht Dateinamen.
+Sie können über die Suchleiste in der Experience Cloud-Bibliothek nach Assets suchen. Bei der Suche werden Dateinamen durchsucht.
 
 ![](assets/library_search_filter_results.png)
 
