@@ -1,32 +1,32 @@
 ---
-description: Sie können ein Trashed-Asset dauerhaft in der Adobe Experience Cloud-Bibliothek löschen.
-seo-description: Sie können ein Trashed-Asset dauerhaft in der Adobe Experience Cloud-Bibliothek löschen.
-seo-title: Dauerhaft umgebrochene Assets löschen
+description: Sie können ein gelöschtes Asset in der Adobe Experience Cloud-Bibliothek dauerhaft entfernen.
+seo-description: Sie können ein gelöschtes Asset in der Adobe Experience Cloud-Bibliothek dauerhaft entfernen.
+seo-title: Dauerhaftes Löschen von Assets
 solution: Experience Manager
-title: Dauerhaft umgebrochene Assets löschen
-uuid: 593713 aa -5 b 66-4474-a 462-c 1173 fdf 8 dc 7
-translation-type: tm+mt
+title: Dauerhaftes Löschen von Assets
+uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Dauerhaft umgebrochene Assets löschen{#permanently-delete-a-trashed-asset}
+# Dauerhaftes Löschen von Assets{#permanently-delete-a-trashed-asset}
 
-Sie können ein Trashed-Asset dauerhaft in der Adobe Experience Cloud-Bibliothek löschen.
+Sie können ein gelöschtes Asset in der Adobe Experience Cloud-Bibliothek dauerhaft entfernen.
 
-Wenn Sie ein Element entwerfen, wird es in der Experience Cloud-Bibliothek 60 Tage lang im Bereich "Trendelemente" veröffentlicht. Wenn Sie keine Elemente wiederherstellen, werden sie von Experience Cloud Library nach 60 Tagen endgültig gelöscht.
+Wenn Sie ein Element löschen, wird es in der Experience Cloud-Bibliothek 60 Tage lang im Bereich „Gelöschte Elemente“ aufbewahrt. Wenn Sie diese Elemente nicht wiederherstellen, werden sie von der Experience Cloud-Bibliothek nach 60 Tagen permanent gelöscht.
 
-Sie können ein verschlüsseltes Asset dauerhaft vor 60 Tagen löschen durch:
+So können ein gelöschtes Asset auch schon vor 60 Tagen permanent löschen:
 
-1. Klicken Sie auf **[!UICONTROL "Verschlüsselte Elemente]**«.
+1. Klicken Sie auf **[!UICONTROL Gelöschte Elemente]**.
 
    ![](assets/library_general_trashed_items.png)
 
-1. Klicken Sie auf ein oder mehrere Elemente, um dauerhaft zu löschen.
-1. Klicken Sie auf **[!UICONTROL Mehr Info &gt; Endgültig löschen]**.
+1. Klicken Sie auf ein oder mehrere Elemente, die Sie permanent löschen möchten.
+1. Klicken Sie auf **[!UICONTROL Mehr Infos &gt; Endgültig löschen]**.
 
    ![](assets/library_restore_perm_delete.png)
 
-1. Bestätigen Sie, dass Sie die ausgewählten Assets dauerhaft löschen möchten.
+1. Bestätigen Sie, dass Sie die ausgewählten Assets permanent löschen möchten.
 
