@@ -1,23 +1,23 @@
 ---
-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek verschlüsseln, um es aus der Bibliothek zu entfernen.
-seo-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek verschlüsseln, um es aus der Bibliothek zu entfernen.
-seo-title: Papierkorb
+description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek löschen, um es aus der Bibliothek zu entfernen.
+seo-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek löschen, um es aus der Bibliothek zu entfernen.
+seo-title: Löschen eines Assets
 solution: Experience Manager
-title: Papierkorb
-uuid: 7 c 472517-9 d 58-4 b 8 a -9 f 71-6 b 651901 a 44 b
-translation-type: tm+mt
+title: Löschen eines Assets
+uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# Papierkorb{#trash-an-asset}
+# Löschen eines Assets{#trash-an-asset}
 
-Sie können ein Asset in der Adobe Experience Cloud-Bibliothek verschlüsseln, um es aus der Bibliothek zu entfernen.
+Sie können ein Asset in der Adobe Experience Cloud-Bibliothek löschen, um es aus der Bibliothek zu entfernen.
 
-So verschlüsseln Sie ein Asset in der Experience Cloud-Bibliothek:
+So löschen Sie ein Asset in der Experience Cloud-Bibliothek:
 
-1. Klicken Sie auf ein oder mehrere Assets, um einen Papierkorb zu erstellen. ![](assets/import_options_mulit_select_trash.png)
+1. Klicken Sie auf ein oder mehrere Assets, die Sie löschen möchten. ![](assets/import_options_mulit_select_trash.png)
 
-1. Klicken Sie oben auf der Seite auf das **[!UICONTROL Papierkorbsymbol]** .
+1. Klicken Sie oben auf der Seite auf das **[!UICONTROL Papierkorbsymbol]**.
 
