@@ -1,11 +1,11 @@
 ---
-description: Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu organisieren.
-seo-description: Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu organisieren.
+description: Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu ordnen.
+seo-description: Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu ordnen.
 seo-title: Erstellen eines Ordners
 solution: Experience Manager
 title: Erstellen eines Ordners
-uuid: 6651 be 0 e -262 a -4 f 9 c-b 0 c 6-adec 3 a 4 e 2178
-translation-type: tm+mt
+uuid: 6651be0e-262a-4f9c-b0c6-adec3a4e2178
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -13,13 +13,13 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 # Erstellen eines Ordners{#create-a-folder}
 
-Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu organisieren.
+Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um Assets zu ordnen.
 
-Erstellen eines Ordners in der Experience Cloud-Bibliothek
+So erstellen Sie einen Ordner in der Experience Cloud-Bibliothek:
 
-1. Wählen Sie **[!UICONTROL "Neu]** " &gt;" **[!UICONTROL Ordner]**«.
+1. Wählen Sie **[!UICONTROL Neu]** &gt; **[!UICONTROL Ordner]** aus.
 
    ![](assets/library_new_folder_upload.png)
 
-1. Geben Sie einen Namen für den Ordner ein und wählen Sie **[!UICONTROL "Erstellen]**«.
+1. Geben Sie einen Namen für den Ordner ein und wählen Sie **[!UICONTROL Erstellen]** aus.
 
