@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: ExC
+product: Lernen und Support
 solution-title: Experience Cloud – Hauptdienste
 solution-hub-url: https://helpx.adobe.com/de/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
@@ -10,8 +10,8 @@ tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/de/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: ht
-source-git-commit: cbe7cdc8031e57dd66d7801a6dbf6e7df959a6bd
+translation-type: tm+mt
+source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 ---
 
