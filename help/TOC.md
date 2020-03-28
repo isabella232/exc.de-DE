@@ -1,6 +1,6 @@
 ---
 cloud: experience-cloud
-product: adobe Experience Cloud
+product: Adobe Experience Cloud
 audience: end-user
 user-guide-title: Experience Cloud Library Help
 translation-type: tm+mt
