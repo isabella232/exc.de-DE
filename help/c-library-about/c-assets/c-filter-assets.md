@@ -2,11 +2,14 @@
 description: Sie können Assets in der Adobe Experience Cloud-Bibliothek filtern.
 seo-description: Sie können Assets in der Adobe Experience Cloud-Bibliothek filtern.
 seo-title: Filtern von Assets
-solution: Experience Manager
+solution: Experience Manager
 title: Filtern von Assets
 uuid: 8a707d6d-1905-4934-b35b-034a337b17f7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '61'
+ht-degree: 100%
 
 ---
 
