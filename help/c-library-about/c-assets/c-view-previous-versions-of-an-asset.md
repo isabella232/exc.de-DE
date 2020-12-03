@@ -2,11 +2,14 @@
 description: Sie können frühere Versionen eines Assets in der Adobe Experience Cloud-Bibliothek anzeigen.
 seo-description: Sie können frühere Versionen eines Assets in der Adobe Experience Cloud-Bibliothek anzeigen.
 seo-title: Anzeige früherer Versionen eines Assets
-solution: Experience Manager
+solution: Experience Manager
 title: Anzeige früherer Versionen eines Assets
 uuid: 0fef9a0f-ba9f-49cf-a49c-b7f2f8022f32
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 100%
 
 ---
 
