@@ -2,11 +2,14 @@
 description: Sie können Dateien aus Dropbox oder Creative Cloud importieren und von Ihrem Gerät hochladen, um sie an einem zentralen Ort in der Adobe Experience Cloud-Bibliothek zu verwalten und zu speichern.
 seo-description: Sie können Dateien aus Dropbox oder Creative Cloud importieren und von Ihrem Gerät hochladen, um sie an einem zentralen Ort in der Adobe Experience Cloud-Bibliothek zu verwalten und zu speichern.
 seo-title: Importieren und Hochladen von Dateien
-solution: Experience Manager
+solution: Experience Manager
 title: Importieren und Hochladen von Dateien
 uuid: 2ace4c62-7df9-4444-824d-078fc87d9150
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 100%
 
 ---
 
