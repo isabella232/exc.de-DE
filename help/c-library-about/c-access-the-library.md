@@ -20,7 +20,7 @@ Sie können mit Ihren IMS-Anmeldedaten auf die Adobe Experience Cloud-Bibliothek
 
 So greifen Sie auf die Experience Cloud-Bibliothek zu:
 
-1. Enter the [ExC Library](https://experiencecloud.adobe.com/library).
+1. Geben Sie die [ExC-Bibliothek](https://experiencecloud.adobe.com/library) ein.
 1. Geben Sie Ihre IMS-Anmeldedaten ein.
 1. Stellen Sie sicher, dass die Organisation korrekt eingegeben ist. Wenn Sie trotz richtiger Organisation nicht auf die Experience Cloud-Bibliothek zugreifen können, wenden Sie sich an Ihren Administrator.
 
