@@ -24,7 +24,7 @@ Sie können Dateien aus Dropbox in die Adobe Experience Cloud-Bibliothek importi
 
 So importieren Sie Dropbox-Dateien in die Experience Cloud-Bibliothek:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Importieren]**.
 
    ![](assets/library_new_folder_upload.png)
 
