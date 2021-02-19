@@ -22,7 +22,7 @@ Wenn Sie sich bei einem Dropbox- oder Creative Cloud-Konto angemeldet haben, ble
 
 So wechseln Sie zu einem anderen Dropbox- oder Creative Cloud-Konto:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
+1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Importieren]**.
 
    ![](assets/library_new_folder_upload.png)
 
