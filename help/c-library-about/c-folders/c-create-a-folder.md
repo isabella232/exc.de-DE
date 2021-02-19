@@ -20,7 +20,7 @@ Sie können in der Adobe Experience Cloud-Bibliothek einen Ordner erstellen, um 
 
 So erstellen Sie einen Ordner in der Experience Cloud-Bibliothek:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Folder]**.
+1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Ordner]**.
 
    ![](assets/library_new_folder_upload.png)
 
