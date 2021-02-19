@@ -20,7 +20,7 @@ Sie können Assets von Ihrem Gerät hochladen, um sie in der Adobe Experience Cl
 
 So laden Sie Assets von Ihrem Gerät in die Experience Cloud-Bibliothek hoch:
 
-1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
+1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Hochladen]**.
 
    ![](assets/library_new_folder_upload.png)
 
