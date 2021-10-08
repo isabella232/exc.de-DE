@@ -1,9 +1,11 @@
 ---
 cloud: Experience Cloud
+product: experience cloud
+solution: Experience Cloud
+type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.de-DE
 index: false
-translation-type: tm+mt
-source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
+source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 100%
@@ -32,7 +34,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 
 In der Datei TOC.md
 
-| metadata | was es macht |
+| Metadaten | was es macht |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
 | user-guide-url | Öffnet die helpx-Hub-Seite |
