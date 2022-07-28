@@ -3,7 +3,7 @@ cloud: Experience Cloud
 product: experience cloud
 solution: Experience Cloud
 type: Documentation
-git-repo: https://git.corp.adobe.com/AdobeDocs/exc.de-DE
+git-repo: https://github.com/AdobeDocs/exc.de-DE
 index: false
 source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
 workflow-type: tm+mt
