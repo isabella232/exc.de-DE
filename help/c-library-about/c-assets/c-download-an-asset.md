@@ -1,14 +1,13 @@
 ---
 description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek herunterladen.
-seo-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek herunterladen.
-seo-title: Herunterladen eines Assets
+seo-description: You can download an asset in the Adobe Experience Cloud Library.
+seo-title: Download an Asset
 solution: Experience Manager
 title: Herunterladen eines Assets
 uuid: f38ecdc5-e0de-46f5-bfbc-fb45cabedac3
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---

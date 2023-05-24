@@ -1,15 +1,14 @@
 ---
 description: Sie können Dateien aus der Creative Cloud in die Adobe Experience Cloud-Bibliothek importieren, um sie in einem beliebigen Adobe Experience Cloud-Produkt zu verwalten.
-seo-description: Sie können Dateien aus der Creative Cloud in die Adobe Experience Cloud-Bibliothek importieren, um sie in einem beliebigen Adobe Experience Cloud-Produkt zu verwalten.
-seo-title: Importieren von Creative Cloud-Dateien in die Adobe Experience Cloud-Bibliothek
+seo-description: Import files from Creative Cloud into the Adobe Experience Cloud Library to manage them from any Adobe Experience Cloud product.
+seo-title: Import Creative Cloud Files into the Adobe Experience Cloud Library
 solution: Experience Manager
 title: Importieren von Creative Cloud-Dateien in die Adobe Experience Cloud-Bibliothek
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 98%
+source-wordcount: '143'
+ht-degree: 97%
 
 ---
 
@@ -24,7 +23,7 @@ Sie können Dateien aus der Creative Cloud in die Adobe Experience Cloud-Bibliot
 
 So importieren Sie Creative Cloud-Dateien in die Experience Cloud-Bibliothek:
 
-1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Importieren]**.
+1. Auswählen **[!UICONTROL Neu]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 

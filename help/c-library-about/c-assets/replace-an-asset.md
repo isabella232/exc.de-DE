@@ -1,14 +1,13 @@
 ---
 description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek ersetzen.
-seo-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek ersetzen.
-seo-title: Ersetzen von Assets
+seo-description: You can replace an asset in the Adobe Experience Cloud Library.
+seo-title: Replace an Asset
 solution: Experience Manager
 title: Ersetzen von Assets
 uuid: c83a3b28-8b9f-4457-affa-948e71cbf784
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 100%
 
 ---

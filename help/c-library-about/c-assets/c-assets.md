@@ -1,14 +1,13 @@
 ---
 description: Sie können Assets in der Adobe Experience Cloud-Bibliothek Tool-übergreifend verwalten und so Details und Versionen leicht finden und Aktionen für Assets durchführen.
-seo-description: Sie können Assets in der Adobe Experience Cloud-Bibliothek Tool-übergreifend verwalten und so Details und Versionen leicht finden und Aktionen für Assets durchführen.
+seo-description: Manage assets across tools in the Adobe Experience Cloud Library to easily find details and versions and take actions on assets.
 seo-title: Assets
 solution: Experience Manager
 title: Assets
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---

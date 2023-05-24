@@ -1,14 +1,13 @@
 ---
 description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek löschen, um es aus der Bibliothek zu entfernen.
-seo-description: Sie können ein Asset in der Adobe Experience Cloud-Bibliothek löschen, um es aus der Bibliothek zu entfernen.
-seo-title: Löschen eines Assets
+seo-description: You can trash an asset in the Adobe Experience Cloud Library to remove it from the Library.
+seo-title: Trash an Asset
 solution: Experience Manager
 title: Löschen eines Assets
 uuid: 7c472517-9d58-4b8a-9f71-6b651901a44b
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---

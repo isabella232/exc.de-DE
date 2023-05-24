@@ -1,14 +1,13 @@
 ---
 description: Sie können Assets von Ihrem Gerät hochladen, um sie in der Adobe Experience Cloud-Bibliothek zu verwalten.
-seo-description: Sie können Assets von Ihrem Gerät hochladen, um sie in der Adobe Experience Cloud-Bibliothek zu verwalten.
-seo-title: Hochladen von Assets vom Gerät
+seo-description: Upload assets from your device to manage them in the Adobe Experience Cloud Library.
+seo-title: Upload Asset from Device
 solution: Experience Manager
 title: Hochladen von Assets vom Gerät
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '77'
 ht-degree: 96%
 
 ---
@@ -20,7 +19,7 @@ Sie können Assets von Ihrem Gerät hochladen, um sie in der Adobe Experience Cl
 
 So laden Sie Assets von Ihrem Gerät in die Experience Cloud-Bibliothek hoch:
 
-1. Wählen Sie **[!UICONTROL Neu]** > **[!UICONTROL Hochladen]**.
+1. Auswählen **[!UICONTROL Neu]** > **[!UICONTROL Hochladen]**.
 
    ![](assets/library_new_folder_upload.png)
 
