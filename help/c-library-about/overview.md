@@ -2,8 +2,7 @@
 description: Die Adobe Experience Cloud-Bibliothek ist ein universelles und zentralisiertes Tool zum Speichern, Suchen und Auswählen von Assets in Adobe Experience Cloud-Lösungen.
 title: Adobe Experience Cloud-Bibliothek
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
-source-git-commit: d8a5a7b2dcbf3066a9ceb464bd52727cc6a846af
+source-git-commit: 1328c5a6c9aeb7d8c0e7eb61481c6a0c043ed091
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 60%
